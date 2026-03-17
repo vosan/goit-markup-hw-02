@@ -70,12 +70,12 @@ button {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--iris);
+  color: #4d5ae5;
   margin-right: 76px;
 }
 
-.page-header .logo-studio {
-  color: var(--navy-blue);
+.logo-studio {
+  color: #2e2f42;
 }
 
 .nav-link {
@@ -83,12 +83,12 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--navy-blue);
+  color: #2e2f42;
 }
 
 .nav-link:hover,
 .nav-link:focus {
-  color: var(--ocean);
+  color: #404bbf;
 }
 
 .contacts {
@@ -99,12 +99,12 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--slate);
+  color: #434455;
 }
 
 .contacts-link:hover,
 .contacts-link:focus {
-  color: var(--ocean);
+  color: #404bbf;
 }
 
 /* HERO SECTION */
